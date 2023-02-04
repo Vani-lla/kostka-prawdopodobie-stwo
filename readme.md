@@ -10,4 +10,5 @@ Pierwsza warstwa reprezentuje wynik 1 przy rzucie pierwszą kostką. Aby otrzyma
 - 4 + 6
 - 5 + 5
 - 6 + 4
+
 Dlatego w pierwszej warstwie kostki widzimy 3 zielone sześciany odpowiadające tym przypadkom.
