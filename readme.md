@@ -5,6 +5,8 @@ Kostka jest reprezentacją rzutu trzema kostkami w 3D. Jest wymiarów 6x6x6 *(6 
 
 ![](./readme.png)
 
+### Program pozwala obracać kostką oraz pokazywać dodatkowe linie pomocnicze, jak też zmieniać pokazywane sumy oczek
+
 ## Struktura kostki
 Pierwsza warstwa reprezentuje wynik 1 przy rzucie pierwszą kostką. Aby otrzymać 11 potrzebujemy jeszcze 10. Możliwe kombinacje przy rzucie trzecią i drugą kostką to:
 - 4 + 6
