@@ -1,7 +1,7 @@
 # Program do wizualizacji prawdopodobieństwa wyrzuconej sumy przy rzucie trzema kostkami
 
 ## Działanie
-Kostka jest 3D *(rzut trzema kostkami)* reprezentacją rzutu trzema kostkami. Jest wymiarów 6x6x6 *(6 oczek na każdej kostce)*. Pokazane zielone sześciany reprezentują sumę możliwe kombinacje, aby otrzymać daną sumę *(na zdjęciu kombinacje dla sumy 11)*.
+Kostka jest reprezentacją rzutu trzema kostkami w 3D. Jest wymiarów 6x6x6 *(6 oczek na każdej kostce)*. Pokazane zielone sześciany reprezentują sumę możliwe kombinacje, aby otrzymać daną sumę *(na zdjęciu kombinacje dla sumy 11)*.
 
 ![](./readme.png)
 
